@@ -10,7 +10,7 @@ This project contains the relevant AWS `CloudFormation` templates and policy req
 4. [**`cni-role-trust-policy.json`**](https://github.com/syedimam0012/awsEKSCFNTemplates/blob/main/cni-role-trust-policy.json): Policy required by `IAM` role to be used for VPC CNI component
 5. [**`amazon-eks-nodegroup-role.yaml`**](https://github.com/syedimam0012/awsEKSCFNTemplates/blob/main/amazon-eks-nodegroup-role.yaml): Template to create IAM role for the worker node
 
-## (Devils :japanese_ogre: ) in the Details
+## :japanese_ogre: :japanese_ogre: :japanese_ogre:  in the Details
 
 To realise the full potential of this project, navigate to [this medium post](https://medium.com/@syedimam0012/building-an-aws-eks-cluster-from-scratch-bfd2f5c6f3aa) 
 
